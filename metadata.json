@@ -1,0 +1,6 @@
+{
+  "name": "Skyline Sprint",
+  "description": "A fast-paced 3D low-poly endless runner across a sunlit skyway track with procedural obstacles, coins, power-ups, and Web Audio effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
